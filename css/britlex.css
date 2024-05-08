@@ -1,0 +1,204 @@
+
+
+.one{
+    width: 1400px;
+    height: 1500px;
+
+    margin:  0 auto;
+}
+header {
+    position: fixed;
+    padding: 10px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+nav ul {
+    list-style-type: none; 
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 40px; 
+}
+
+nav ul li a {
+    color: rgb(2, 0, 0); 
+    text-decoration: none; 
+    font-weight: bold; 
+    font-size: 20px;
+}
+ header .a{
+color: black;
+padding: 15px 25px;
+background-color: aliceblue;
+text-decoration: none;
+border-radius: 5px;
+}
+
+.kattadiv{
+    width: 1400px;
+    height: 500px;
+   
+    margin:  0 auto;
+    margin-top: 1cm;
+    display: flex;   
+    gap: 5px;
+   
+}
+.kichikdiv{
+    width: 700px;
+    height: 700px;
+
+    margin:  0 auto;
+    margin-top: 0.1cm;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    
+}
+.kichikdiv img{
+    width: 700px;
+    height: 700px;
+
+}
+.kichikdiv h1{
+    font-size: 40px;
+}
+.kichikdiv p{
+    font-size: 20px;
+}
+.raqam{
+    width: 600px;
+    height: 100px;
+   
+    display: flex;
+    gap: 10px;
+}
+.son{
+    width: 200px;
+    height: 100px;
+
+    display: flex;
+   
+   align-items: center;
+   flex-direction: column;
+}
+
+.skils{
+    width: 1400px;
+    height: 800px;
+   margin-top: -5cm;
+    margin:  0 auto;
+   background-color: white;
+   display: flex;
+ gap: 100px;
+   justify-content: center;
+   
+}
+.div1{
+    width: 550px;
+    height: 680px;
+    background-color: aliceblue;
+    margin-left: 0cm;
+  padding: 15px;
+}
+.div1 h1{
+    font-size: 30px;
+}
+.div1 p{
+    font-size: 20px;
+}
+.div1 a{
+    font-size: 18px;
+    padding: 10px 15px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+.div2{
+    width: 500px;
+    height: 350px;
+    background-color: aliceblue;
+    margin-left: -2cm;
+    padding: 10px;
+  
+}
+.div2 img{
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+}
+.div2 a{
+    font-size: 18px;
+    padding: 10px 10px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    margin-top: 2cm
+}
+.div2 p{
+    font-size: 18px;
+}
+.div3{
+    width: 500px;
+    height: 350px;
+    background-color: aliceblue;
+    margin-left: -2cm;
+    padding: 10px;
+}
+.div3 img{
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+}
+.div3 a{
+    font-size: 18px;
+    padding: 10px 10px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    margin-top: 2cm
+}
+.div3 p{
+    font-size: 18px;
+}
+.div4{
+    width: 1100px;
+    height: 330px;
+    background-color: aliceblue;
+    margin-top: 10cm;
+    margin-left: -26cm;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+
+.div4 img{
+    width: 45%;
+    height: 100%;
+    object-fit: cover;
+    margin-left: 13cm;
+    margin-top: -5cm;
+    
+}
+.div4 a{
+   text-decoration: none;
+ color: black;
+ font-size: 20px;
+ margin-left: 1cm;
+  
+}
+.div4 p{
+    font-size: 18px;
+    margin-left: 0.5cm;
+}
+.div4 h1{
+    font-size: 30px;
+    margin-left: 1cm;
+    margin-top: 1cm
+}

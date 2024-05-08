@@ -1,0 +1,81 @@
+
+
+
+
+
+.container{
+    width: 1400px;
+    height: 672px;
+
+    margin:  0 auto;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+   gap: 15px;
+   margin-top: -3.8cm;
+    
+}
+h1{
+font-family: Rubik;
+font-size: 36px;
+font-weight: 500;
+line-height: 43px;
+text-align: center;
+margin-top: 5cm;
+}
+p{
+    color: #95A1BB;
+font-family: Rubik;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+text-align: center;
+margin-top: 0cm;
+
+}
+.smallcontainer{
+    width: 460px;
+    height: 377px;
+    border: 2px solid;
+    display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.smallcontainer h3{
+    color: #363940;
+}
+.smallcontainer a{
+    color: #6E38F7;
+    padding: 10px 20px;
+    border: 2px solid #6E38F7;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    align-items: center;
+    margin-top: 0.9cm;
+}
+ a:hover{
+    color: white;
+    padding: 15px 25px;
+background-color: #6E38F7;
+}
+.smallcontainer .buy-a{
+    color: white;
+    padding: 10px 20px;
+background-color: #6E38F7;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    align-items: center;
+    margin-top: 0.9cm;
+}
+.smallcontainer h6{
+   
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+   margin-top: -0.4cm;
+    
+}
